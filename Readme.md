@@ -4,4 +4,5 @@ In this project, a face detection system was developed using the [FaceNet model]
 - Mark Zuckerberg
 - Jeff Bezos
 - Bill Gates
+
 The test images used in this project were collected manually from Google Images.
