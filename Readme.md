@@ -5,4 +5,4 @@ In this project, a face detection system was developed using the [FaceNet model]
 - Jeff Bezos
 - Bill Gates
 
-The test images used in this project were collected manually from Google Images.
+The test images used in this project were collected manually from Google Images and have been made available on [Kaggle](https://www.kaggle.com/datasets/praiseoladejo/faces-data).
